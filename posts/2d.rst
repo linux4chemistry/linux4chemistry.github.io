@@ -1,0 +1,10 @@
+.. title: 2D
+.. slug: 2d
+.. date: 2013-03-04
+.. tags: Quantum Mechanics, GPL, Fortran
+.. link: http://www.leiflaaksonen.eu/num2d.html
+.. category: Open Source
+.. type: text open_source
+.. comments: 
+
+2D is a numerical Hartree-Fock program for diatomic molecules.

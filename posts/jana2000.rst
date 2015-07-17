@@ -1,0 +1,10 @@
+.. title: Jana2000
+.. slug: jana2000
+.. date: 2013-03-04
+.. tags: Crystallography
+.. link: http://www-xray.fzu.cz/jana/Jana2000/jana.html
+.. category: Freeware
+.. type: text freeware
+.. comments: 
+
+Jana2000 is a system for solving and refinement of regular, modulated and composite structures from monocrystal and powder diffraction data.
