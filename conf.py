@@ -17,7 +17,7 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "linux4chemistry"  # (translatable)
+BLOG_AUTHOR = "l4c"  # (translatable)
 BLOG_TITLE = "Linux4Chemistry"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
