@@ -1,0 +1,10 @@
+.. title: VB2000
+.. slug: vb2000
+.. date: 2013-03-04
+.. tags: Quantum Mechanics
+.. link: http://www.scinetec.com/
+.. category: Free for academics
+.. type: text academic
+.. comments: 
+
+VB2000 is an ab initio electronic structure package for performing modern Valence Bond (VB) calculations based on a highly efficient VB algorithm - the so called Algebrant Algorithm. It has also a general implementation of the Group Function (GF) Theory, in which a large molecule is described in terms of its constituent parts of physically identifiable "electron groups". It can be used as a stand-alone program, or as a plug-in module for GAMESS and Gaussian.
