@@ -9,10 +9,6 @@
   <lastmod>2015-07-17</lastmod>
  </url>
  <url>
-  <loc>http://linux4chemistry.github.io/2015/index.html</loc>
-  <lastmod>2015-07-15</lastmod>
- </url>
- <url>
   <loc>http://linux4chemistry.github.io/archive.html</loc>
   <lastmod>2015-07-17</lastmod>
  </url>
@@ -75,10 +71,6 @@
  <url>
   <loc>http://linux4chemistry.github.io/categories/cat_shareware.html</loc>
   <lastmod>2015-07-17</lastmod>
- </url>
- <url>
-  <loc>http://linux4chemistry.github.io/categories/cat_some-more-words.html</loc>
-  <lastmod>2015-07-13</lastmod>
  </url>
  <url>
   <loc>http://linux4chemistry.github.io/categories/cecill.html</loc>
@@ -150,7 +142,7 @@
  </url>
  <url>
   <loc>http://linux4chemistry.github.io/categories/index.html</loc>
-  <lastmod>2015-07-15</lastmod>
+  <lastmod>2015-07-17</lastmod>
  </url>
  <url>
   <loc>http://linux4chemistry.github.io/categories/inventory.html</loc>
@@ -301,18 +293,6 @@
   <lastmod>2015-07-17</lastmod>
  </url>
  <url>
-  <loc>http://linux4chemistry.github.io/categories/tag1-tag2-tag3.html</loc>
-  <lastmod>2015-07-13</lastmod>
- </url>
- <url>
-  <loc>http://linux4chemistry.github.io/categories/tag1-tag2.html</loc>
-  <lastmod>2015-07-13</lastmod>
- </url>
- <url>
-  <loc>http://linux4chemistry.github.io/categories/tag3.html</loc>
-  <lastmod>2015-07-13</lastmod>
- </url>
- <url>
   <loc>http://linux4chemistry.github.io/categories/tcl.html</loc>
   <lastmod>2015-07-17</lastmod>
  </url>
@@ -338,7 +318,7 @@
  </url>
  <url>
   <loc>http://linux4chemistry.github.io/galleries/index.html</loc>
-  <lastmod>2015-07-15</lastmod>
+  <lastmod>2015-07-17</lastmod>
  </url>
  <url>
   <loc>http://linux4chemistry.github.io/index-1.html</loc>
@@ -474,11 +454,11 @@
  </url>
  <url>
   <loc>http://linux4chemistry.github.io/listings/.gitkeep.html</loc>
-  <lastmod>2015-07-15</lastmod>
+  <lastmod>2015-07-17</lastmod>
  </url>
  <url>
   <loc>http://linux4chemistry.github.io/listings/index.html</loc>
-  <lastmod>2015-07-15</lastmod>
+  <lastmod>2015-07-17</lastmod>
  </url>
  <url>
   <loc>http://linux4chemistry.github.io/posts/2d.html</loc>
@@ -511,14 +491,6 @@
  <url>
   <loc>http://linux4chemistry.github.io/posts/ampac-with-gui.html</loc>
   <lastmod>2015-07-17</lastmod>
- </url>
- <url>
-  <loc>http://linux4chemistry.github.io/posts/and-here-is-the-other-post.html</loc>
-  <lastmod>2015-07-13</lastmod>
- </url>
- <url>
-  <loc>http://linux4chemistry.github.io/posts/and-here-is-the-post.html</loc>
-  <lastmod>2015-07-13</lastmod>
  </url>
  <url>
   <loc>http://linux4chemistry.github.io/posts/aqua.html</loc>
@@ -1779,9 +1751,5 @@
  <url>
   <loc>http://linux4chemistry.github.io/posts/zortep.html</loc>
   <lastmod>2015-07-17</lastmod>
- </url>
- <url>
-  <loc>http://linux4chemistry.github.io/stories/and-here-is-the-page.html</loc>
-  <lastmod>2015-07-13</lastmod>
  </url>
 </urlset>
