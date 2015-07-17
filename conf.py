@@ -858,32 +858,32 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 #
 # This search form works for any site and looks good in the "site" theme where
 # it appears on the navigation bar:
-#
-# SEARCH_FORM = """
-# <!-- Custom search -->
-# <form method="get" id="search" action="//duckduckgo.com/"
-#  class="navbar-form pull-left">
-# <input type="hidden" name="sites" value="%s"/>
-# <input type="hidden" name="k8" value="#444444"/>
-# <input type="hidden" name="k9" value="#D51920"/>
-# <input type="hidden" name="kt" value="h"/>
-# <input type="text" name="q" maxlength="255"
-#  placeholder="Search&hellip;" class="span2" style="margin-top: 4px;"/>
-# <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
-# </form>
-# <!-- End of custom search -->
-# """ % SITE_URL
-#
-# If you prefer a Google search form, here's an example that should just work:
+
 SEARCH_FORM = """
-<!-- Custom search with Google-->
-<form id="search" action="//www.google.com/search" method="get" class="navbar-form pull-left">
-<input type="hidden" name="q" value="site:%s" />
-<input type="text" name="q" maxlength="255" results="0" placeholder="Search"/>
-</form>
-<!-- End of custom search -->
+ <!-- Custom search -->
+ <form method="get" id="search" action="//duckduckgo.com/"
+  class="navbar-form pull-left">
+ <input type="hidden" name="sites" value="%s"/>
+ <input type="hidden" name="k8" value="#444444"/>
+ <input type="hidden" name="k9" value="#D51920"/>
+ <input type="hidden" name="kt" value="h"/>
+ <input type="text" name="q" maxlength="255"
+  placeholder="Search&hellip;" class="span2" style="margin-top: 4px;"/>
+ <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
+ </form>
+ <!-- End of custom search -->
 """ % SITE_URL
 
+# If you prefer a Google search form, here's an example that should just work:
+#SEARCH_FORM = """
+#<!-- Custom search with Google-->
+#<form id="search" action="//www.google.com/search" method="get" class="navbar-form pull-left">
+#<input type="hidden" name="q" value="site:%s" />
+#<input type="text" name="q" maxlength="255" results="0" placeholder="Search"/>
+#</form>
+#<!-- End of custom search -->
+#""" % SITE_URL
+#
 # Use content distribution networks for jQuery, twitter-bootstrap css and js,
 # and html5shiv (for older versions of Internet Explorer)
 # If this is True, jQuery and html5shiv are served from the Google CDN and
