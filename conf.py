@@ -127,19 +127,12 @@ NAVIGATION_LINKS = {
         ('/archive.html', 'Archives', 'icon-folder-open-alt'),
         ('/categories/index.html', 'Tags', 'icon-tags'),
         ('/rss.xml', 'RSS', 'icon-rss'),
-        #('https://getnikola.com', 'About me', 'icon-user'),
-        ('https://twitter.com/linux4chemistry', 'My Twitter', 'icon-twitter'),
-        ('https://github.com/linux4chemistry', 'My Github', 'icon-github'),
+        ('/stories/about.html', 'About linux4chemistry', 'icon-user'),
+        ('/stories/definitions.html', 'Software licenses', 'icon-book'),
+        ('https://twitter.com/linux4chemistry', 'Twitter', 'icon-twitter'),
+        ('https://github.com/linux4chemistry/linux4chemistry.github.io', 'Github', 'icon-github'),
     )
 }
-
-#NAVIGATION_LINKS = {
-#    DEFAULT_LANG: (
-#        ("/archive.html", "Archive"),
-#        ("/categories/index.html", "Tags"),
-#        ("/rss.xml", "RSS feed"),
-#    ),
-#}
 
 # Name of the theme to use.
 THEME = "zen-ipython"
@@ -214,14 +207,14 @@ TIMEZONE = "Europe/Rome"
 #
 
 POSTS = (
+    ("posts/*.rst", "posts", "post.tmpl"),
     ("posts/*.ipynb", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.rst", "posts", "post.tmpl"),
 )
 PAGES = (
+    ("stories/*.rst", "stories", "story.tmpl"),
     ("stories/*.ipynb", "stories", "story.tmpl"),
     ("stories/*.txt", "stories", "story.tmpl"),
-    ("stories/*.rst", "stories", "story.tmpl"),
 )
 
 # One or more folders containing files to be copied as-is into the output.
