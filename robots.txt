@@ -1,2 +1,4 @@
-Sitemap: http://linux4chemistry.github.io/sitemapindex.xml
+Sitemap: https://linux4chemistry.github.io/sitemapindex.xml
 
+User-Agent: *
+Host: linux4chemistry.github.io

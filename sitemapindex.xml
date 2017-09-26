@@ -1,319 +1,320 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/2d-draw.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/2d-draw.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/3d-viewer.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/3d-viewer.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/agpl.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/agpl.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/artistic-license.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/artistic-license.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/assembly.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/assembly.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/bsd-compatible.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/bsd-compatible.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/bsd-like.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/bsd-like.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/bsd.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/bsd.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/c++.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/c%2B%2B.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/c.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/c.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/cat_commercial.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/cat_commercial.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/cat_free-for-academics.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/cat_free-for-academics.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/cat_freeware.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/cat_freeware.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/cat_open-source.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/cat_open-source.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/cat_shareware.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/cat_shareware.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/cecill.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/cecill.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/cheminformatics.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/cheminformatics.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/common-public-license.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/common-public-license.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/crystallography.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/crystallography.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/database.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/database.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/docking.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/docking.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/ecl.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/ecl.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/eclipse-public-license.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/eclipse-public-license.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/education.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/education.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/electrochemistry.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/electrochemistry.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/electronic-lab-notebook.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/electronic-lab-notebook.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/enzyme-reactions-and-properties.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/enzyme-reactions-and-properties.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/enzyme.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/enzyme.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/fortran.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/fortran.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/gas-simulation.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/gas-simulation.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/gpl-compatible.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/gpl-compatible.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/gpl.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/gpl.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/inventory.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/inventory.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/ir.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/ir.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/java.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/java.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/javascript.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/javascript.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/latex.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/latex.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/lgpl.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/lgpl.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/lpgl.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/lpgl.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/lua.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/lua.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/mass-spectrometry.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/mass-spectrometry.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/materials.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/materials.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/mesoscopic-modeling.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/mesoscopic-modeling.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/molecular-dynamics.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/molecular-dynamics.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/molecular-mechanics.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/molecular-mechanics.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/molecular-surface.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/molecular-surface.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/molecular-volume.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/molecular-volume.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/nanostructures.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/nanostructures.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/nmr.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/nmr.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/periodic-table.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/periodic-table.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/perl.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/perl.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/php.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/php.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/protein-reactions.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/protein-reactions.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/public-domain.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/public-domain.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/python-license.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/python-license.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/python-software-foundation-license.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/python-software-foundation-license.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/python.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/python.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/qsar.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/qsar.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/quantum-mechanics.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/quantum-mechanics.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/raman.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/raman.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/reactions.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/reactions.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/ruby.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/ruby.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/software-collection.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/software-collection.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/solids.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/solids.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/solvation.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/solvation.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/solvent-accessibility.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/solvent-accessibility.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/spectra.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/spectra.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/spectroscopy.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/spectroscopy.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/symmetry.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/symmetry.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/tcl.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/tcl.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/thermodynamics.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/thermodynamics.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/uitilities.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/uitilities.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/university-of-illinois-open-source-license.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/university-of-illinois-open-source-license.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/utility.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/utility.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/categories/workflow.xml</loc>
-  <lastmod>2015-07-17</lastmod>
+  <loc>https://linux4chemistry.github.io/categories/workflow.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/galleries/rss.xml</loc>
-  <lastmod>2015-07-21</lastmod>
+  <loc>https://linux4chemistry.github.io/galleries/rss.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/rss.xml</loc>
-  <lastmod>2015-07-21</lastmod>
+  <loc>https://linux4chemistry.github.io/rss.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://linux4chemistry.github.io/sitemap.xml</loc>
-  <lastmod>2015-07-21</lastmod>
+  <loc>https://linux4chemistry.github.io/sitemap.xml</loc>
+  <lastmod>2017-09-26T21:27:00Z</lastmod>
  </sitemap>
 </sitemapindex>
